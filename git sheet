@@ -1,2 +1,3 @@
 git checkout filename {to discard changes to  WD}
 git checkout -- filename 
+git commit -am “divide function available” to add & commit at once ony modified files which r already staged
