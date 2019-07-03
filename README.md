@@ -1,1 +1,1 @@
-git checkout filename {to discard changes in  WD}
+basic git commands
