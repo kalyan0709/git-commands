@@ -1,2 +1,2 @@
-git checkout filename {to discard changes in  WD}
+git checkout filename {to discard changes to  WD}
 git checkout -- filename 
