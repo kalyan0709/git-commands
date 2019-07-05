@@ -4,3 +4,4 @@ git commit -am “divide function available” to add & commit at once ony modif
 git branch --merged
 git push --delete origin dev
 git reset --hard 4963e9 to move head to this commit
+git remote -v to knoe which remote u r pushing to
