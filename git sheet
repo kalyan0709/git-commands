@@ -5,4 +5,4 @@ git branch --merged
 git push --delete origin dev
 git reset --hard 4963e9 to move head to this commit
 git remote -v to knoe which remote u r pushing to
-what ever commit r there in master branch these comits will be refered to anyother banch but the converse is not true
+what ever commit r there in master branch these comits will not be refered to anyother banch if that branch is present but if u create a new branch commit from master will be reflected
