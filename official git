@@ -1,1 +1,2 @@
- git commit --amend to change commit message
+ git commit --amend to change commit message   takes changes from the staging area
+git reset HEAD <file> Unstaging a Staged File
