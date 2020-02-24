@@ -4,7 +4,7 @@ git commit -am “divide function available” to add & commit at once ony modif
 git branch --merged
 git push --delete origin dev
 git reset --hard 4963e9 to move head to this commit
-git remote -v to knoe which remote u r pushing to
+git remote -v to know which remote u r pushing to
 what ever commit r there in master branch these comits will not be refered to anyother banch if that branch is present but if u create a new branch commit from master will be reflected
 $ git checkout -b dev 3099cab
 https://photos.google.com/share/AF1QipMO_VnSo4XxRLoEQMF-pCeziZqNgyANHlAHaxsUHHTDrPVaWVRcR1ncJsRtFzN0Ag?key=eXkxMVA1MV9wWnU1VTJtNy1wZ1QxcFAwenMxTk5n
